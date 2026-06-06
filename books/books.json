@@ -1,12 +1,25 @@
 [
   {
+    "id": 1780779216994,
+    "title": "Sahih al-Bukhari Vol. 1 - 1-875",
+    "author": "Unknown",
+    "category": "Quran Sciences",
+    "lang": "English",
+    "desc": "",
+    "emoji": "🌙",
+    "date": "6/7/2026",
+    "githubPath": "books/sahih_al-bukhari_vol__1_-_1-875.pdf",
+    "githubUrl": "https://raw.githubusercontent.com/junaid10j/Islamic_Books_360/main/books/sahih_al-bukhari_vol__1_-_1-875.pdf",
+    "githubPagesUrl": "https://junaid10j.github.io/Islamic_Books_360/books/sahih_al-bukhari_vol__1_-_1-875.pdf"
+  },
+  {
     "id": 1780776792144,
     "title": "The Principle of Patience",
     "author": "Unknown",
     "category": "Quran Sciences",
     "lang": "English",
     "desc": "",
-    "emoji": "🕌",
+    "emoji": "ð",
     "date": "6/7/2026",
     "githubPath": "books/the_principle_of_patience.pdf",
     "githubUrl": "https://raw.githubusercontent.com/junaid10j/Islamic_Books_360/main/books/the_principle_of_patience.pdf",
@@ -19,7 +32,7 @@
     "category": "Quran Sciences",
     "lang": "English",
     "desc": "",
-    "emoji": "📖",
+    "emoji": "ð",
     "date": "6/7/2026"
   },
   {
@@ -29,7 +42,7 @@
     "category": "Quran Sciences",
     "lang": "English",
     "desc": "",
-    "emoji": "📕",
+    "emoji": "ð",
     "date": "6/7/2026"
   },
   {
@@ -38,8 +51,8 @@
     "author": "Imam An-Nawawi",
     "category": "Hadith",
     "lang": "Arabic",
-    "desc": "Gardens of the Righteous – a comprehensive collection of authentic hadiths.",
-    "emoji": "📖",
+    "desc": "Gardens of the Righteous â a comprehensive collection of authentic hadiths.",
+    "emoji": "ð",
     "date": "6/7/2026"
   },
   {
@@ -49,7 +62,7 @@
     "category": "Fiqh",
     "lang": "Arabic",
     "desc": "A classical text on Islamic creed and theology.",
-    "emoji": "🕌",
+    "emoji": "ð",
     "date": "6/7/2026"
   },
   {
@@ -58,8 +71,8 @@
     "author": "Safi-ur-Rahman Mubarakpuri",
     "category": "Biography",
     "lang": "English",
-    "desc": "Award-winning biography of Prophet Muhammad ﷺ.",
-    "emoji": "🌙",
+    "desc": "Award-winning biography of Prophet Muhammad ï·º.",
+    "emoji": "ð",
     "date": "6/7/2026"
   }
 ]
