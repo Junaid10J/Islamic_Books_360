@@ -1,12 +1,25 @@
 [
   {
+    "id": 1780840482691,
+    "title": "MuntakhabAhadith-english-ByShaykhMuhammadYusufKandhelvir.a text",
+    "author": "Unknown",
+    "category": "Quran Sciences",
+    "lang": "English",
+    "desc": "",
+    "emoji": "📗",
+    "date": "6/7/2026",
+    "githubPath": "books/muntakhabahadith-english-byshaykhmuhammadyusufkandhelvir_a_text.pdf",
+    "githubUrl": "https://raw.githubusercontent.com/junaid10j/Islamic_Books_360/main/books/muntakhabahadith-english-byshaykhmuhammadyusufkandhelvir_a_text.pdf",
+    "githubPagesUrl": "https://junaid10j.github.io/Islamic_Books_360/books/muntakhabahadith-english-byshaykhmuhammadyusufkandhelvir_a_text.pdf"
+  },
+  {
     "id": 1780840241812,
     "title": "Sahih al-Bukhari Vol. 1",
     "author": "Unknown",
     "category": "Quran Sciences",
     "lang": "English",
     "desc": "",
-    "emoji": "🌿",
+    "emoji": "ð¿",
     "date": "6/7/2026",
     "githubPath": "books/sahih_al-bukhari_vol__1.pdf",
     "githubUrl": "https://raw.githubusercontent.com/junaid10j/Islamic_Books_360/main/books/sahih_al-bukhari_vol__1.pdf",
@@ -19,7 +32,7 @@
     "category": "Quran Sciences",
     "lang": "English",
     "desc": "",
-    "emoji": "ð",
+    "emoji": "Ã°ÂÂÂ",
     "date": "6/7/2026",
     "githubPath": "books/sahih_al-bukhari_vol__2.pdf",
     "githubUrl": "https://raw.githubusercontent.com/junaid10j/Islamic_Books_360/main/books/sahih_al-bukhari_vol__2.pdf",
@@ -32,7 +45,7 @@
     "category": "Quran Sciences",
     "lang": "English",
     "desc": "",
-    "emoji": "Ã¢ÂÂªÃ¯Â¸Â",
+    "emoji": "ÃÂ¢ÃÂÃÂªÃÂ¯ÃÂ¸ÃÂ",
     "date": "6/7/2026",
     "githubPath": "books/the_principle_of_patience.pdf",
     "githubUrl": "https://raw.githubusercontent.com/junaid10j/Islamic_Books_360/main/books/the_principle_of_patience.pdf",
@@ -45,7 +58,7 @@
     "category": "Quran Sciences",
     "lang": "English",
     "desc": "",
-    "emoji": "ÃÂ°ÃÂÃÂÃÂ",
+    "emoji": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ",
     "date": "6/7/2026",
     "githubPath": "books/sahih_al-bukhari_vol__1_-_1-875.pdf",
     "githubUrl": "https://raw.githubusercontent.com/junaid10j/Islamic_Books_360/main/books/sahih_al-bukhari_vol__1_-_1-875.pdf",
@@ -58,7 +71,7 @@
     "category": "Quran Sciences",
     "lang": "English",
     "desc": "",
-    "emoji": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ",
+    "emoji": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
     "date": "6/7/2026",
     "githubPath": "books/the_principle_of_patience.pdf",
     "githubUrl": "https://raw.githubusercontent.com/junaid10j/Islamic_Books_360/main/books/the_principle_of_patience.pdf",
@@ -71,7 +84,7 @@
     "category": "Quran Sciences",
     "lang": "English",
     "desc": "",
-    "emoji": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ",
+    "emoji": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
     "date": "6/7/2026"
   },
   {
@@ -81,7 +94,7 @@
     "category": "Quran Sciences",
     "lang": "English",
     "desc": "",
-    "emoji": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ",
+    "emoji": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
     "date": "6/7/2026"
   },
   {
@@ -90,8 +103,8 @@
     "author": "Imam An-Nawawi",
     "category": "Hadith",
     "lang": "Arabic",
-    "desc": "Gardens of the Righteous ÃÂÃÂ¢ÃÂÃÂÃÂÃÂ a comprehensive collection of authentic hadiths.",
-    "emoji": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ",
+    "desc": "Gardens of the Righteous ÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ a comprehensive collection of authentic hadiths.",
+    "emoji": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
     "date": "6/7/2026"
   },
   {
@@ -101,7 +114,7 @@
     "category": "Fiqh",
     "lang": "Arabic",
     "desc": "A classical text on Islamic creed and theology.",
-    "emoji": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ",
+    "emoji": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
     "date": "6/7/2026"
   },
   {
@@ -110,8 +123,8 @@
     "author": "Safi-ur-Rahman Mubarakpuri",
     "category": "Biography",
     "lang": "English",
-    "desc": "Award-winning biography of Prophet Muhammad ÃÂÃÂ¯ÃÂÃÂ·ÃÂÃÂº.",
-    "emoji": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ",
+    "desc": "Award-winning biography of Prophet Muhammad ÃÂÃÂÃÂÃÂ¯ÃÂÃÂÃÂÃÂ·ÃÂÃÂÃÂÃÂº.",
+    "emoji": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
     "date": "6/7/2026"
   }
 ]
